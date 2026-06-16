@@ -17,13 +17,15 @@ If you don't have a `requirements.txt`, install minimal packages:
 python -m pip install streamlit google-generativeai python-dotenv
 ```
 
-Running
+Running locally
 
 Start the app with Streamlit (recommended):
 
 ```bash
 python -m streamlit run app.py
 ```
+# open in browser:
+http://localhost:8501
 
 Environment
 
